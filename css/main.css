@@ -113,7 +113,7 @@ section {
 }
 
 .bg-1 {
-    background: url('img/bg.png') no-repeat center center fixed;
+    background: url('../img/bg.png') no-repeat center center fixed;
     color:#fff;
     background-size: cover;
     box-shadow: inset 0 -15px 15px rgba(0,0,0,.5);
@@ -166,7 +166,7 @@ iframe {
 }
 
 .bg-2 {
-    background: url('img/bg2.png') no-repeat center center fixed;
+    background: url('../img/bg2.png') no-repeat center center fixed;
     color:#fff;
     background-size: cover;
     box-shadow: inset 0 -15px 15px rgba(0,0,0,.5), inset 0 15px 15px rgba(0,0,0,.5);
