@@ -106,7 +106,7 @@ textarea {
 
 
 section {
-    height:500px;
+    min-height:500px !important;
     padding-top:50px;
     padding-bottom:50px;
     overflow:auto;
