@@ -138,7 +138,7 @@ iframe {
 .navbar .logo {
     width: 48px;
     height: 48px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .navbar .title {
@@ -178,7 +178,7 @@ iframe {
 
 .carousel-inner .carousel-caption {
     text-align: left;
-    background-color: rgba(51, 0, 0,1);
+    background-color: rgba(0, 0, 0,1);
     padding: 15px;
 }
 
