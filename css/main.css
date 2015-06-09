@@ -131,14 +131,18 @@ h1, h2, h3 {
     font-weight: bolder; 
 }
 
+.carousel-inner h3 {
+    letter-spacing: .8pt;
+}
+
 iframe {
     display: block;
 }
 
 .navbar .logo {
     width: 48px;
-    height: 48px;
-    margin-top: 20px;
+    height: 36px;
+    margin-top: 10px;
 }
 
 .navbar .title {
@@ -179,7 +183,7 @@ iframe {
 
 .carousel-inner .carousel-caption {
     text-align: justify;
-    background-color: rgba(30, 0, 0,1);
+    background-color: rgba(30, 0, 0,.8);
     padding: 15px;
 }
 
