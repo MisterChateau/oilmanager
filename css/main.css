@@ -166,7 +166,7 @@ iframe {
 }
 
 .carousel-indicators {
-   bottom:0px;
+   top:100px;
 }
 
 .bg-2 {
