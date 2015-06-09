@@ -177,7 +177,7 @@ iframe {
 }
 
 .carousel-inner .carousel-caption {
-    text-align: left;
+    text-align: justify;
     background-color: rgba(30, 0, 0,1);
     padding: 15px;
 }
