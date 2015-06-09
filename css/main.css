@@ -165,9 +165,6 @@ iframe {
     height: auto;
 }
 
-.carousel-indicators {
-   bottom:-50px;
-}
 
 .bg-2 {
     background: url('../img/bg2.png') no-repeat center center fixed;
