@@ -187,7 +187,11 @@ iframe {
    top:-10px;
 }
 
-
+.carousel-controls{
+ position:relative; 
+  width:300px;
+  margin:0 auto;
+}
 
 
 
