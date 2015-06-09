@@ -182,7 +182,10 @@ iframe {
     padding: 15px;
 }
 
-
+.carousel-indicator {
+   
+   top:10px;
+}
 
 
 
